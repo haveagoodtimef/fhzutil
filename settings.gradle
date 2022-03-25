@@ -1,0 +1,2 @@
+rootProject.name='fhzutil'
+include ':app'
